@@ -15,7 +15,7 @@
 - Udemy 100 Days of Code: The Complete Python Pro Bootcamp
 
 ## Projects
-### Name
-Link
+### 100Days of Projects
+[Link](https://github.com/OleksandraMukha/100-Days-of-Code)
 
 Description
