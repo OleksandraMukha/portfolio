@@ -1,7 +1,5 @@
 # Oleksandra Mukha
 
-#### Technical Skills: Python, R, Data Analytics
-
 ## Education			        		
 - B.S., Concentration in Computational Finance | Babson College (_August 2022 - May 2026_)
 - B.S., Statistics | The London School of Economics and Political Science (_September 2024 - June 2025_)
