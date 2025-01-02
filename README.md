@@ -9,7 +9,7 @@
 ## Projects
 
 ### Factory Farm Impact Calculator
-[Link](https://oleksandramukha.github.io/Factory-Farm-Impact-Calculator/)
+[Link](https://oleksandramukha.github.io/Factory-Farm-Impact-Calculator)
 Factory Farm Calculator is an interactive website designed to raise awareness about the environmental and ethical impacts of factory farming. Users can explore the resource consumption and CO₂ emissions associated with factory-farmed animals like chickens, cows, and pigs. This tool aims to educate and inspire action by visually showcasing the hidden costs of animal agriculture.
 
 ### Udemy 100 Days of Code: The Complete Python Pro Bootcamp
